@@ -8,12 +8,7 @@ body{
     background-color: antiquewhite;
 
 }
-.kep2{
-    
-    width: 500px;
-}
-.kep3{
-    
+.kep{
     width: 500px;
 }
 
@@ -22,10 +17,10 @@ body{
     color: black;
 }
 
-.kozepre1{
-    text-align: center;
-}
-
-.kozepre2{
-    text-align: center;
+.kepek-kozepre {
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    flex-wrap: wrap;
 }
