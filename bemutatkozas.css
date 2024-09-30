@@ -3,12 +3,12 @@ body {
     color:black;
 }
 
-h1 {
+.bemutat {
     font-size: large;
     text-align: center;
     font-style: italic;
 }
 
-p {
+.szoveg {
     color: blue;
 }
