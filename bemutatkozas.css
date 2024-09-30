@@ -1,8 +1,10 @@
 body {
     background-color: antiquewhite;
-
+    color:black;
 }
 
-head {
-    background-color: cadetblue;
+h1{
+    font-size: large;
+    text-align: center;
+    font-style: italic;
 }
