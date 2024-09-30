@@ -4,17 +4,17 @@ body {
 }
 
 .bemutat {
-    font-size: 200px;
+    font-size: 45px;
     text-align: center;
     font-style: italic;
 }
 
 .szoveg {
     color:black;
-    font-size: 80px;
+    font-size: 20px;
 }
 
 .kep{
     text-align: center;
-    width: 100px;
+    width: 30px;
 }
