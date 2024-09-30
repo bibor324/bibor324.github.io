@@ -9,15 +9,23 @@ body{
 
 }
 .kep2{
-    text-align: center;
+    
     width: 500px;
 }
 .kep3{
-    text-align: center;
+    
     width: 500px;
 }
 
 .szoveg2{
     font-size: 20px;
     color: black;
+}
+
+.kozepre1{
+    text-align: center;
+}
+
+.kozepre2{
+    text-align: center;
 }

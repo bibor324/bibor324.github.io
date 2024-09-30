@@ -15,6 +15,9 @@ body {
 }
 
 .kep{
-    text-align: center;
     width: 700px;
+}
+
+.kozepre{
+    text-align: center;
 }
